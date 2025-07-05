@@ -1,2 +1,2 @@
-console.log('two.js')
+console.log('2.js')
 console.log('ver 2')
