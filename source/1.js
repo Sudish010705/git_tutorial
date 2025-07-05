@@ -1,2 +1,2 @@
 console.log('one.js')
-console.log('version 1')
+console.log('ver 1')
